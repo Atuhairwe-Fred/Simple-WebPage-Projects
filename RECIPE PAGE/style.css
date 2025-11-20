@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(243, 183, 156);
+}
+
+#title {
+    background-color: brown;
+}
+
+.ingredients-section{
+    background-color: rgb(154, 154, 221);
+}
+#ingredients{
+    background-color: rgb(98, 17, 21);
+    color: rgb(127, 222, 157);
+}
